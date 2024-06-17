@@ -1,0 +1,2 @@
+# switas-consent-v2
+ 
